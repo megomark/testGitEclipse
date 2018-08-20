@@ -1,0 +1,7 @@
+[
+{
+  "directory": "F:/tmp/eclipseProjectGit/build/default",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe    -O3 -DNDEBUG   -o CMakeFiles\\EclipseGitTest.dir\\EclipseGitTest.cpp.obj -c F:\\tmp\\eclipseProjectGit\\EclipseGitTest.cpp",
+  "file": "F:/tmp/eclipseProjectGit/EclipseGitTest.cpp"
+}
+]
